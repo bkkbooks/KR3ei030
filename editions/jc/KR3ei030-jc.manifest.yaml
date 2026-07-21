@@ -17,14 +17,14 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ei030_000-jc.yaml, hash: 'sha256:3259f8d6b77a64be071ce711c2b13e6d1964d5eceac119da7aecdbf6ea2ee862'}
+  - {seq: 0, filename: KR3ei030_000-jc.yaml, hash: 'sha256:e1ba33ab7990640aaca286443c748353e74f830acca5264ed46f3974ac1042ad'}
   - {seq: 1, filename: KR3ei030_001-jc.yaml, hash: 'sha256:21b88795825d4c14e61e7e71ef1fe387d1b3c4c1134c3f253ed3b3be75159801'}
   - {seq: 2, filename: KR3ei030_002-jc.yaml, hash: 'sha256:afd1d9e1fbc91efde46b4079719b697d6faf51c638f9102b27dddd0eee817f8b'}
   - {seq: 3, filename: KR3ei030_003-jc.yaml, hash: 'sha256:d6ce5eec45d53cc3edbf33a9d11236116179b5bc8ee7693f8d6f4b506f35a66a'}
   - {seq: 4, filename: KR3ei030_004-jc.yaml, hash: 'sha256:6f509e3aef8ab85c490af0b9f5717c7e4b8570a45897b6fd90c7c030f441ae2c'}
   - {seq: 5, filename: KR3ei030_005-jc.yaml, hash: 'sha256:33cbcd7d4a0addebbf8452775088ffc0217983eaad4f1b98f83393ae22835c54'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei030_000-jc.markers.yaml, hash: 'sha256:f9eaea4c7f5deabed2369c43e0abfd3b9093a28308c1167c68dcb0ef6d71a720'}
+  - {seq: 0, role: markers, filename: assets/KR3ei030_000-jc.markers.yaml, hash: 'sha256:a973e63eda1807873f5accb487f787e8753af7ed5560934a8f67afb5dfca42d1'}
   - {seq: 1, role: markers, filename: assets/KR3ei030_001-jc.markers.yaml, hash: 'sha256:fb4d9c91fab8fac052679b4dc3b365de62b280373cee511fec249710ba6f481f'}
   - {seq: 2, role: markers, filename: assets/KR3ei030_002-jc.markers.yaml, hash: 'sha256:b839db17df42e6a4a81a2b49699a334c5efefb7ab4392e50944360f0fff71bd5'}
   - {seq: 3, role: markers, filename: assets/KR3ei030_003-jc.markers.yaml, hash: 'sha256:6a31d88ef80f37d820f95d0b8619b25d33421ae0ca9a849e6bf87e520f65872a'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ei030_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 673
   label: 自序
@@ -1831,4 +1831,4 @@ table_of_contents:
   label: 妒乳
   type: section
   level: 3
-hash: sha256:ceb9c6dc66e80360db45e4112766dd9c4a7cc9afa78143e8b1af623e3a87c51d
+hash: sha256:5a27a9a2af3e1b1b8a1986f6a2433a9bf5f725ee594a9d5c393cf486f603d6f2
